@@ -1,4 +1,5 @@
-**If you're familiar with:** memory systems (Dolphin Twin), inference cost (Redundancy Tax), or control architectures (Connector OS), start here.
+**If you're familiar with:** memory systems ([Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)), inference cost ([Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)), or control architectures ([Connector OS](https://github.com/leenathomas01/connector-os)), start here.
+
 This repo sits between memory (how systems remember), cost (why recomputation matters), and control (how systems regulate behavior).
 
 # Adaptive Cognition
