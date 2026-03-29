@@ -91,7 +91,7 @@ If you want the philosophy → [`dolphin_memory_contract.md`](./dolphin_memory_c
 
 If you want the mechanics → [`architecture_primitives.md`](./architecture_primitives.md)
 
-If you want to see it break (and not break) → [`failure_simulation_01.md`](./failure_simulation_01.md)
+If you want to see it break (and where it holds) → [`failure_simulation_01.md`](./failure_simulation_01.md)
 
 If you want the origin story → [`CREDITS.md`](./CREDITS.md)
 
