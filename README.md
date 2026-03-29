@@ -1,6 +1,6 @@
 **If you're familiar with:** memory systems ([Dolphin Twin](https://github.com/leenathomas01/TITANS-MIRAS-and-Dolphin-Twin)), inference cost ([Redundancy Tax](https://github.com/leenathomas01/The-Redundancy-Tax)), or control architectures ([Connector OS](https://github.com/leenathomas01/connector-os)), start here.
 
-This repo sits between memory (how systems remember), cost (why recomputation matters), and control (how systems regulate behavior).
+_**This repo sits between memory (how systems remember), cost (why recomputation matters), and control (how systems regulate behavior).**_
 
 # Adaptive Cognition
 
@@ -38,13 +38,13 @@ It emerged from a structured multi-model debate in March 2026 — where the orig
 
 Modern AI systems are stateless by design.
 
-Every query is processed as if no prior reasoning exists — recomputing the same logic, re-ingesting the same context, re-deriving the same conclusions.
+Most queries are processed as if no prior reasoning exists — recomputing the same logic, re-ingesting the same context, re-deriving the same conclusions.
 
 This creates a **Redundancy Tax**: a structural cost overhead where a significant portion of inference spending goes not toward new thinking, but toward repeating old thinking.
 
 The environment AI runs in has changed. Conversations are long. Agents run multi-step loops. Context windows stretch to hundreds of thousands of tokens. **Usage patterns became stateful. Architecture stayed stateless.**
 
-That mismatch is the financial wall. And it's self-inflicted.
+That mismatch is becoming a financial wall—and it is largely self-inflicted.
 
 ---
 
@@ -52,7 +52,8 @@ That mismatch is the financial wall. And it's self-inflicted.
 
 > **Cognition should be governed as a resource: when to think, how much to think, and when to forget.**
 
-Everything else follows from that.
+
+This repo explores what that principle looks like when treated as a system-level constraint, not just an intuition.
 
 ---
 
@@ -67,7 +68,7 @@ Everything else follows from that.
 | **Calibration** | How much should I think? | Scales compute to the magnitude of change |
 | **Consolidation** | Should I remember this? | Gates what actually earns long-term memory |
 
-**Key insight:** Most AI cost isn't from hard problems. It's from re-solving easy ones.
+**Key insight:** Most AI cost doesn’t come from hard problems—it comes from repeatedly solving the same ones.
 
 ---
 
